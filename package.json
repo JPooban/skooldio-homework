@@ -1,0 +1,12 @@
+{
+  "name": "skooldio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "encode": "node index.js"
+  },
+  "keywords": [],
+  "author": "jugkapong pooban <j.pooban@gmail.com>",
+  "license": "ISC"
+}
